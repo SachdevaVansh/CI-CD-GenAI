@@ -1,4 +1,4 @@
-# FastAPI CRUD Application with CI/CD
+# FastAPI CRUD Application with CI/CD (Euron)
 
 A production-ready FastAPI CRUD application with automated CI/CD pipeline using GitHub Actions for deployment to AWS EC2.
 
